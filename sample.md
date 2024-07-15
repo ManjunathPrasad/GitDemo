@@ -30,5 +30,6 @@ How to add remote
 How to push 
 ```git push -u origin Master```
 
+Updated changes in first-branch
 
 new branch -> checkout -> edit -> stage -> commit -> Push
