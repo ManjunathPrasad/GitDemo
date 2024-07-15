@@ -35,3 +35,5 @@ Updated changes in first-branch
 Updated second changes 
 
 new branch -> checkout -> edit -> stage -> commit -> Push
+
+second branch changes
