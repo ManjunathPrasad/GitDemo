@@ -24,6 +24,11 @@ How to stage
 How to commit branches with commit message
 ``` git commit -m "message" ```
 
+How to add remote
+```git remote add origin https://github.com/ManjunathPrasad/GitDemo.git```
+
+How to push 
+```git push -u origin Master```
 
 
 new branch -> checkout -> edit -> stage -> commit -> Push
